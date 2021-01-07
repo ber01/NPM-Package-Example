@@ -1,7 +1,7 @@
 {
   "name": "@minkh/PackageExample",
   "version": "1.0.0",
-  "main": "minkh.ts",
+  "main": "index.js",
   "author": "minkh",
   "license": "MIT",
   "description": "npm-packages-test",
